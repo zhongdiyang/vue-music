@@ -1,10 +1,1 @@
-.input-box .input-default {
-  width: 14.7rem;
-  height: 1.2rem;
-  margin: 0 auto;
-  background-color: #2daf71;
-}
-.input-box .input-default i,
-.input-box .input-default span {
-  font-size: 0.7rem;
-}
+.input-box .input-default-box{width:100%;padding-bottom:.24rem;background-color:#31c37c}.input-box .input-default{width:14.7rem;height:1.2rem;line-height:1.2rem;text-align:center;margin:0 auto;background-color:#2daf71;border-radius:.06rem;color:#fff;cursor:text}.input-box .input-default i{font-size:.56rem;vertical-align:middle}.input-box .input-default span{font-size:.6rem;vertical-align:middle;margin-left:.04rem}
