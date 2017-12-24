@@ -1,0 +1,10 @@
+.input-box .input-default {
+  width: 14.7rem;
+  height: 1.2rem;
+  margin: 0 auto;
+  background-color: #2daf71;
+}
+.input-box .input-default i,
+.input-box .input-default span {
+  font-size: 0.7rem;
+}

@@ -1,0 +1,49 @@
+.header {
+  background-color: #31c37c;
+  height: 1.84rem;
+}
+.header > div {
+  float: left;
+}
+.header .home {
+  width: 2.08rem;
+  height: 1.84rem;
+  padding: 0.54rem 0.6rem;
+}
+.header .home i {
+  width: 0.84rem;
+  height: 0.76rem;
+  display: block;
+  font-size: 0.8rem;
+  color: #fff;
+  cursor: pointer;
+}
+.header .nav {
+  margin-left: 1.6rem;
+  height: 1.84rem;
+}
+.header .nav a {
+  color: #fff;
+  font-size: 0.8rem;
+  height: 1.84rem;
+  line-height: 1.84rem;
+  padding: 0 0.44rem;
+  display: inline-block;
+}
+.header .nav a.active {
+  font-weight: 600;
+}
+.header .add {
+  width: 1.64rem;
+  height: 1.84rem;
+  padding: 0.54rem 0.44rem;
+  float: right;
+}
+.header .add i {
+  width: 0.84rem;
+  height: 0.76rem;
+  display: block;
+  font-size: 0.8rem;
+  color: #fff;
+  cursor: pointer;
+}
